@@ -6,3 +6,4 @@ zxcv
 !"#$$!!!
 cat nano | -efa
 Hola Mundo! / Hello Againg / Bonsoire / Ciao!
+AaBbCcDd..Zz..1234567890@

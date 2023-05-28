@@ -4,3 +4,5 @@
 123
 list l- twackR
 grep -awk {^aB~33[3]} | drop it like is hot!
+mk dir --gitFiles
+find . --name "Config.git"
